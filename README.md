@@ -22,3 +22,4 @@ This application was built with the following files below
 ![Capture](https://user-images.githubusercontent.com/93087137/151739243-733ca12a-6a99-46a9-8234-b392b926c2df.PNG)
 
 ## Link to the website
+https://cougarchan.github.io/Work-Day-Scheduler/
